@@ -1,0 +1,6 @@
+mangoszero_scriptname_full.sql  - must be applied on mangos ( world ) database
+
+scriptdev0_script_full.sql  - must be applied on scriptdevzero database
+
+if you don't have scriptdev0 db yet, please create it ( you can use also scriptdev0_create_database.sql ) and create structure using
+scriptdev0_create_structure_mysql.sql ( for MYSQL db ONLY )  or scriptdev0_create_structure_pgsql.sql ( for POSTGRE DB ONLY )
